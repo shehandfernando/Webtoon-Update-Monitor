@@ -26,5 +26,8 @@ Because website structures vary, you must configure the script for your specific
 * **State Management:** Writes to a local `last_chapter.txt` file to remember the last checked release, preventing spam.
 * **Native Desktop Notifications:** Uses `plyer` to trigger OS-level toast notifications when a new update is detected.
 
-## ⚖️ License
-This project is licensed under the MIT License.
+## 📝 License
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+*Developed by [Shehan Fernando](https://github.com/shehandfernando)*
